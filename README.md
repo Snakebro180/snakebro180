@@ -1,6 +1,6 @@
 # 🐍 Snakebite-Snakebro!
 
-<a href="url"><img src="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:PDC/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fdartsnews.com%2Fimages%2F2023-12%2F2023ecqf-peter-wright-15-653e8684d719b.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="[https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:PDC/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fdartsnews.com%2Fimages%2F2023-12%2F2023ecqf-peter-wright-15-653e8684d719b.jpg](https://media1.tenor.com/m/E0jxnTqoAmIAAAAd/peter-wright-snakebite.gif)" align="left" height="320" width="180" ></a>
 
 A beginner developer - started my way with making games because it allows to stay as creative as I can ✨
 <!--
