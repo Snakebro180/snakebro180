@@ -1,6 +1,6 @@
 # 🐍 Snakebite-Snakebro!
 
-https://media1.tenor.com/m/E0jxnTqoAmIAAAAd/peter-wright-snakebite.gif
+![peter-wright-snakebite](https://github.com/Snakebro180/snakebro180/assets/151753565/b99d481a-f320-4488-a5cb-db26226c1999)
 
 A beginner developer - started my way with making games because it allows to stay as creative as I can ✨
 <!--
