@@ -1,6 +1,6 @@
 # 🐍 Snakebite-Snakebro!
 
-![peter-wright-snakebite](https://github.com/Snakebro180/snakebro180/assets/151753565/4d239c5d-782a-4dac-ad4e-bbe3f351c77c)
+![peter-wright-celebrate](https://github.com/Snakebro180/snakebro180/assets/151753565/926b95e1-3d21-46af-af17-57e5a3d458cf)
 
 A beginner developer - started my way with making games because it allows to stay as creative as I can ✨
 <!--
