@@ -19,8 +19,10 @@
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/900px-Godot_icon.svg.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/900px-Godot_icon.svg.png"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg"/>
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Canva_icon_2021.svg"/>
 <br />
 
 #
