@@ -1,8 +1,6 @@
 # 🐍 Snakebite-Snakebro!
 
-![peter-wright-snakebite](https://github.com/Snakebro180/snakebro180/assets/151753565/b99d481a-f320-4488-a5cb-db26226c1999 =250x250)
-
-![Peter_Wright_Darts_Actueel_2022_(2)](https://github.com/Snakebro180/snakebro180/assets/151753565/ff5393b8-7d73-4082-89a4-ec3bbd430553 =250x250)
+<a href="url"><img src="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:PDC/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fdartsnews.com%2Fimages%2F2023-12%2F2023ecqf-peter-wright-15-653e8684d719b.jpg" align="left" height="48" width="48" ></a>
 
 A beginner developer - started my way with making games because it allows to stay as creative as I can ✨
 <!--
