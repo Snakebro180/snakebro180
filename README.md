@@ -1,4 +1,8 @@
-# 🐍 @@ Snakebite-Snakebro! @@
+# 🐍 Snakebite-Snakebro!
+
+https://media1.tenor.com/m/E0jxnTqoAmIAAAAd/peter-wright-snakebite.gif
+
+A beginner developer - started my way with making games because it allows to stay as creative as I can ✨
 <!--
 **Snakebro180/snakebro180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
