@@ -25,9 +25,9 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Snakebro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snakebro180&show_icons=true&theme=synthwave)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Snakebro180&theme=synthwave&border_radius=4.5) -->
 
 #
 
